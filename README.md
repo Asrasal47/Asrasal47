@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Header -->
 <h1 align="center">
   <br>
-  Hi, I'm Akshay Rasal - aka arasal <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Hi, I'm Akshay Rasal aka arasal <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
