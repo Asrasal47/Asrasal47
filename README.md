@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">
   <br>
   Hi, I'm Akshay Rasal aka arasal 
+</h1>
+<h1 align="center">
+  <br>
   <img src="https://media3.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47nckmi80zxdtrizksr3bcyuxe1cd1hz5vpc09uhmm&rid=giphy.gif&ct=g">
 </h1>
 
