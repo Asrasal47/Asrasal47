@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 - 📓 I'm a student of [42 Heilbronn](https://www.42heilbronn.de/en/).
 - As a passionate self-taught programmer, I'm on a never-ending journey to expand my skills and knowledge. Each day, I strive to learn something new and embrace the exciting challenges that come my way.
 
-🔧 Tech Stack: C, C++, Matlab and more!
-📚 Currently exploring: Cisco Networking Essentials (NetEss 2.0) and Web Development.
-🎯 Goal: To contribute to innovative projects and collaborate with inspiring developers.
-👉 Seeking opportunities to grow and excel in the tech industry!
+- 🔧 Tech Stack: C, C++, Matlab and more!
+- 📚 Currently exploring: Cisco Networking Essentials (NetEss 2.0) and Web Development.
+- 🎯 Goal: To contribute to innovative projects and collaborate with inspiring developers.
+- 👉 Seeking opportunities to grow and excel in the tech industry!
 
 
