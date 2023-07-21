@@ -15,46 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Header -->
-<h1 align="center">
-  <br>
-  Hi, I'm Akshay Rasal 
+<h1 align="center">Hi 👋, I'm Akshay Rasal</h1>
+<h3 align="center">As a passionate self-taught programmer, I'm on a never-ending journey to expand my skills and knowledge. Each day, I strive to learn something new and embrace the exciting challenges that come my way.</h3>
 </h1>
 <h1 align="center">
   <br>
   <img src="https://media3.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47nckmi80zxdtrizksr3bcyuxe1cd1hz5vpc09uhmm&rid=giphy.gif&ct=g">
 </h1>
-
 <!-- Counter -->
 <p align="center">
 </p>
-
-<p align="center">
-  <b>I'm a passionate programmer who loves to code</b>
 </p>
-
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
 - Welcome to my GitHub! 🚀
 - 📓 I'm a student of [42 Heilbronn](https://www.42heilbronn.de/en/).
-- As a passionate self-taught programmer, I'm on a never-ending journey to expand my skills and knowledge. Each day, I strive to learn something new and embrace the exciting challenges that come my way.
-
 - 🔧 Tech Stack: C, C++, Matlab and more!
 - 📚 Currently exploring: Cisco Networking Essentials (NetEss 2.0) and Web Development.
 - 🎯 Goal: To contribute to innovative projects and collaborate with inspiring developers.
 - 👉 Seeking opportunities to grow and excel in the tech industry!
-- 📫 How to reach me:
-- [Akshay Rasal](https://www.linkedin.com/in/asrasal47)
-- asrasal47@gmail.com
-
-<h1 align="center">Hi 👋, I'm Akshay Rasal</h1>
-<h3 align="center">As a passionate self-taught programmer, I'm on a never-ending journey to expand my skills and knowledge. Each day, I strive to learn something new and embrace the exciting challenges that come my way.</h3>
-
 - 🌱 I’m currently learning **Cisco Networking Essentials (NetEss 2.0), Python and Web Development.**
-
 - 📫 How to reach me **asrasal47@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/asrasal47](www.linkedin.com/in/asrasal47)
+- 📄 Know about my experiences [Akshay Rasal](www.linkedin.com/in/asrasal47)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
