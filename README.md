@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Header -->
 <h1 align="center">
   <br>
-  Hi, I'm Akshay Rasal aka arasal 
+  Hi, I'm Akshay Rasal 
 </h1>
 <h1 align="center">
   <br>
