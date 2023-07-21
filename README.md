@@ -18,7 +18,7 @@
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
 
-- Welcome to my GitHub! 🚀
+- **Welcome to my GitHub! 🚀**
 - 📓 I'm a student of [42 Heilbronn](https://www.42heilbronn.de/en/)
 - 🔧 Tech Stack: C, C++, Matlab and more!
 - 📚 Currently exploring: Cisco Networking Essentials (NetEss 2.0) and Web Development.
