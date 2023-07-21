@@ -43,5 +43,8 @@ Here are some ideas to get you started:
 - 📚 Currently exploring: Cisco Networking Essentials (NetEss 2.0) and Web Development.
 - 🎯 Goal: To contribute to innovative projects and collaborate with inspiring developers.
 - 👉 Seeking opportunities to grow and excel in the tech industry!
+- 📫 How to reach me:
+- [Akshay Rasal](www.linkedin.com/in/asrasal47)
+- asrasal47@gmail.com
 
 
