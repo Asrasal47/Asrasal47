@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">As a passionate self-taught programmer, I'm on a never-ending journey to expand my skills and knowledge. Each day, I strive to learn something new and embrace the exciting challenges that come my way.</h3>
 </h1>
 <h1 align="center">
-  <br>
   <img src="https://media3.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47nckmi80zxdtrizksr3bcyuxe1cd1hz5vpc09uhmm&rid=giphy.gif&ct=g">
+  <br>
 </h1>
 <!-- Counter -->
 <p align="center">
@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asrasal47&show_icons=true&locale=en&layout=compact" alt="asrasal47" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrasal47&show_icons=true&locale=en" alt="asrasal47" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrasal47&" alt="asrasal47" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asrasal47&" alt="asrasal47" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asrasal47&show_icons=true&locale=en" alt="asrasal47" /></p>
