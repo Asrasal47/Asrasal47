@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 </p>
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
 <br>
-
 - Welcome to my GitHub! 🚀
 - 📓 I'm a student of [42 Heilbronn](https://www.42heilbronn.de/en/).
 - 🔧 Tech Stack: C, C++, Matlab and more!
@@ -38,14 +37,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Cisco Networking Essentials (NetEss 2.0), Python and Web Development.**
 - 📫 How to reach me **asrasal47@gmail.com**
 - 📄 Know about my experiences [Akshay Rasal](www.linkedin.com/in/asrasal47)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asrasal47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asrasal47" height="30" width="40" /></a>
 <a href="https://fb.com/asrasal47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asrasal47" height="30" width="40" /></a>
 <a href="https://instagram.com/akshayrasal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayrasal_" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
