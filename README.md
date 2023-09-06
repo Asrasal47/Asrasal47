@@ -43,6 +43,3 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asrasal47&show_icons=true&locale=en&layout=compact" alt="asrasal47" /></p>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asrasal47&" alt="asrasal47" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asrasal47&show_icons=true&locale=en" alt="asrasal47" /></p>
